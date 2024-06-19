@@ -20,7 +20,7 @@
 
 ### [Next Path Helper](https://github.com/LeonLonsdale/next-path-helper)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=projectname&theme=radical)](https://github.com/LeonLonsdale/next-path-helper)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonLonsdale&repo=next-path-helper&theme=tokyonight)](https://github.com/LeonLonsdale/next-path-helper)
 
 ## 🏆 GitHub Trophies
 
