@@ -16,13 +16,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeonLonsdale&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonLonsdale&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📂 Featured Projects
+
+### [Next Path Helper](https://github.com/LeonLonsdale/next-path-helper)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=projectname&theme=radical)](https://github.com/LeonLonsdale/next-path-helper)
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=LeonLonsdale&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=LeonLonsdale&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
