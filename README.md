@@ -2,6 +2,16 @@
 
 "A learner, with a passion for creating tooling to solve real problems."<br><br>- 🌱 I’m currently learning NextJS<br>- 🤔 I’m looking for help with a modern roadmap.<br>- 💬 Ask me about Data Protection [UK GDPR/DPA2018]<br>- 📫 How to reach me: https://discord.gg/KG8RY2FKpq<br>
 
+##  👨‍🎓 Where I've been Learning
+
+I've been following courses produced by:
+
+- [Bytegrad](https://github.com/ByteGrad)
+- [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
+- [Maximillian Schwarzmueller](https://github.com/mschwarzmueller)
+- [Colt Steele](https://github.com/Colt)
+- [Stephen Grider](https://github.com/StephenGrider)
+
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/KG8RY2FKpq) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/PapayaDev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LeonLonsdale)
